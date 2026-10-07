@@ -11,7 +11,7 @@ git config --global core.autocrlf "input"
 U -> Untracked
 A- added
 M- Modify
-C- commit
+C- Commit
 
 repository - ek essa container jisme apka code hota hai 
 
